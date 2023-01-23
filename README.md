@@ -36,7 +36,7 @@ npm install
 
 ### Paso 5: Configurar el app.module.ts en la carpeta minicore
 - El usuario tendrá que configurar con sus credenciales respectivas las secciones de MySQL
-- Además deberá crear una base de datos de nombre 'minicore' para que se inicialice corerctamente el Backend
+- Además deberá crear una base de datos de nombre 'minicore' para que se inicialice correctamente el Backend
 
 ### Paso 6: Inicializar Frontend y Backend
 - El usuario tendrá que inicializar ambos servicios para que el aplicativo pueda funcionar correctamente de la siguiente manera
