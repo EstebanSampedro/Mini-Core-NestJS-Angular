@@ -5,7 +5,7 @@ import { tap } from 'rxjs';
   providedIn: 'root',
 })
 export class MinicoreService {
-  URL: string = 'http://localhost:3000';
+  URL: string = 'https://backend-minicore-essg.onrender.com';
   httpOptions = {
     headers: new HttpHeaders({
       'Content-Type': 'application/json',
