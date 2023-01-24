@@ -1,6 +1,7 @@
 # Mini Core - Angular & NestJS
+![imagen](https://user-images.githubusercontent.com/62622922/214198340-7e626616-05f3-44a5-b946-c96fd3b2592f.png)
 
-**Repositorio de la aplicación**
+**Aplicación desplegada https://frontend-minicore-essg.onrender.com/**
 
 ## Herramientas utilizadas
 - Angular (FrontEnd)
