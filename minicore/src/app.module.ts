@@ -13,10 +13,10 @@ import { ContractEntity } from './contracts/entities/contract.entity';
     ContractsModule,
     TypeOrmModule.forRoot({
       type: 'mysql',
-      host: '127.0.0.1',
+      host: 'mysql8002.site4now.net',
       port: 3306,
-      database: 'minicore',
-      username: 'root',
+      database: 'db_a93a0c_mini',
+      username: 'a93a0c_mini',
       password: 'RyukJhin23',
       entities: [ClientEntity, ContractEntity],
       synchronize: true,
