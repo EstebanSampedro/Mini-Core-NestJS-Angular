@@ -13,7 +13,7 @@
 - El usuario deberá descargar los archivos requeridos de GitHub en un `archivo .ZIP` donde se encontrarán 2 archivos (Frontend y Backend). 
 
 
-### Paso 2: Instalara Angular y Node
+### Paso 2: Instalar Angular y Node
 - El usuario deberá descargar Nodejs desde el sitio oficial https://nodejs.org/es/download/releases/
 
 - A continuación, deberá descargar Angular de manera global en el CMD del sistema mediante el siguiente comando
